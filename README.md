@@ -1,5 +1,7 @@
 # Quản lý bệnh nhân nội trú
 
+Đồ án môn Cơ sở dữ liệu
+
 Quy trình quản lý bệnh nhân nội trú tại bệnh viện
 
 -	Bệnh nhân đến nơi tiếp nhận bệnh nhân (nơi cấp số) để xác lập việc khám bệnh và được chỉ định một vị trí khám bệnh
